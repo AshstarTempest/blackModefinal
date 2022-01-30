@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BlackMode-for-textutlls/static/css/main.f92dd530.css",
-    "main.js": "/BlackMode-for-textutlls/static/js/main.71ec9edf.js",
-    "static/js/787.4f7f7724.chunk.js": "/BlackMode-for-textutlls/static/js/787.4f7f7724.chunk.js",
-    "index.html": "/BlackMode-for-textutlls/index.html",
-    "main.f92dd530.css.map": "/BlackMode-for-textutlls/static/css/main.f92dd530.css.map",
-    "main.71ec9edf.js.map": "/BlackMode-for-textutlls/static/js/main.71ec9edf.js.map",
-    "787.4f7f7724.chunk.js.map": "/BlackMode-for-textutlls/static/js/787.4f7f7724.chunk.js.map"
+    "main.css": "/blackModefinal/static/css/main.f92dd530.css",
+    "main.js": "/blackModefinal/static/js/main.6f5dbbbd.js",
+    "static/js/787.4f7f7724.chunk.js": "/blackModefinal/static/js/787.4f7f7724.chunk.js",
+    "index.html": "/blackModefinal/index.html",
+    "main.f92dd530.css.map": "/blackModefinal/static/css/main.f92dd530.css.map",
+    "main.6f5dbbbd.js.map": "/blackModefinal/static/js/main.6f5dbbbd.js.map",
+    "787.4f7f7724.chunk.js.map": "/blackModefinal/static/js/787.4f7f7724.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f92dd530.css",
-    "static/js/main.71ec9edf.js"
+    "static/js/main.6f5dbbbd.js"
   ]
 }
